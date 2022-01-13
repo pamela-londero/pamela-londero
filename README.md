@@ -5,9 +5,8 @@
 - 💞️ I’m looking to collaborate on social proyects
 - 💖 I love play 🏑
 - 🚀 Taking off to infinity and beyond
-- 📫 How to reach me ...<br>
-<a href = "mailto:pamelalondero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pamela-londero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 <div align="center">
   <a href="https://github.com/pamela-londero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamela-londero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,11 +21,15 @@
   <img align="center" alt="Pame-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pame-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pame-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Pame-pic" height="150" style="border-radius:50px;"
+       src='https://user-images.githubusercontent.com/80834774/149409272-e7d72e04-ad8b-42bd-ba83-1c9120d455d9.png'>
 </div>
   
   ##
  
 <div> 
-![Snake animation](https://github.com/pamela-londero/pamela-londero/blob/output/github-contribution-grid-snake.svg)
+<a href = "mailto:pamelalondero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pamela-londero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/pamela-londero/pamela-londero/blob/output/github-contribution-grid-snake.svg)
 </div>
