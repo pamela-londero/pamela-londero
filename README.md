@@ -1,6 +1,6 @@
 ## Hi! I am Pamela Londero => { Full Stack Developer + Teacher + Accountant }
 - 👋 Wellcome...
-- 👀 I’m interested in help people
+- 👀 I’m interested in contributing helping the community to change our world
 - 🌱 I’m currently learning in Digital House
 - 💞️ I’m looking to collaborate on social proyects
 - 💖 I love play 🏑
