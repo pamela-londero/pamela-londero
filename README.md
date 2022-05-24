@@ -1,7 +1,9 @@
 ## Hi! I am Pamela Londero => { Full Stack Developer + Teacher + Accountant }
 - 👋 Wellcome...
 - 👀 I’m interested in contributing helping the community to change our world
-- 🌱 I’m currently learning in Digital House
+- 🌱 I’m currently learning Python in Codo a Codo
+- 🌱 I’m studying for certifications in AWS She Builds CloudUp programs
+- 🌱 I’m participating in Salesforce training
 - 💞️ I’m looking to collaborate on social proyects
 - 💖 I love play 🏑
 - 🚀 Taking off to infinity and beyond
